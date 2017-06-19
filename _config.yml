@@ -1,0 +1,51 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: store
+layout_spectrum: 0.5800841371528804
+typography_spectrum: 0.9297229761723429
+color:
+  brandStrength: 0.9754471776541322
+  lightness: 0.3190731117501855
+  saturation: 0.9432248477824032
+  rhythmicContrast: 0.3812689664773643
+  brandColors:
+    - '#F4F2EE'
+    - '#FAF8F2'
+    - '#FDFCF9'
+    - '#EFECE9'
+    - '#FFFFFF'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1acafb9b-b379-4d75-a6ed-c65caf46b174.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/1acafb9b-b379-4d75-a6ed-c65caf46b174.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: the old curiosity store
+description: 'all hand made with love.. ~ opening hours : 24/7'
+analytics:
+  google: UA-100593811-1
+github: true
