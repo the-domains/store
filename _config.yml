@@ -49,3 +49,7 @@ description: 'all hand made with love.. ~ opening hours : 24/7'
 analytics:
   google: UA-100593811-1
 github: true
+author:
+  name: Adrian Cutler
+  email: adrian@bbiab.com
+  url: 'https://www.bbiab.com'
