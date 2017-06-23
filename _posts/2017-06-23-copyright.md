@@ -1,10 +1,10 @@
 ---
-inFeed: false
+inFeed: true
 description: >-
   anything on this site is the copyright of adec.. unless a friend.. hands off.!
   :p
-dateModified: '2017-06-23T21:08:10.725Z'
-datePublished: '2017-06-23T21:08:11.195Z'
+dateModified: '2017-06-23T21:11:14.699Z'
+datePublished: '2017-06-23T21:11:15.214Z'
 title: Copyright
 author: []
 publisher: {}
@@ -14,7 +14,7 @@ sourcePath: _posts/2017-06-23-copyright.md
 starred: false
 datePublishedOriginal: '2017-06-23T21:07:22.020Z'
 url: copyright/index.html
-_type: Blurb
+_type: Article
 
 ---
 # Copyright
