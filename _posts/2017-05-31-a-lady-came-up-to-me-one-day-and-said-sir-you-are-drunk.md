@@ -1,16 +1,18 @@
 ---
 inFeed: true
 description: I always say shopping is cheaper than a psychiatrist. ~ Tammy Faye Bakker
-dateModified: '2017-06-23T09:01:26.550Z'
-datePublished: '2017-06-23T09:01:26.685Z'
+dateModified: '2017-06-23T21:14:54.188Z'
+datePublished: '2017-06-23T21:14:54.746Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-05-31-a-lady-came-up-to-me-one-day-and-said-sir-you-are-drunk.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-31T20:22:56.222Z'
-_type: Blurb
+url: i-always-say-shopping-is-cheaper-than-a-psychiatrist-~-tamm/index.html
+_type: Article
 
 ---
 > I always say shopping is cheaper than a psychiatrist. ~ Tammy Faye Bakker
