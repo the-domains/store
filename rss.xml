@@ -4,9 +4,9 @@
         <description><![CDATA[the old curiosity store]]></description>
         <link>http://store.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Aug 2017 15:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2017 15:21:56 GMT</lastBuildDate>
         <atom:link href="http://store.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Aug 2017 15:16:13 GMT</pubDate>
+        <pubDate>Wed, 30 Aug 2017 15:16:22 GMT</pubDate>
         <item>
             <title><![CDATA[E-commerce solutions..]]></title>
             <description><![CDATA[<h1>E-commerce solutions..</h1>,<p>There are many sites out there that will allow - for a fee - to set up a store front and sell your produce, but what if you want it to be part of your grid site ?</p>,<p>One of the best solutions we have come across is from <a href="https://www.ecwid.com/" title="">Ecwid</a>. A fully functioning e-commerce solution from end to end.. and best of all, you can try it for free!</p>,<p>Yup, if you only have 10 items to sell, they won’t charge you for setting up a store. The next level up to get 100 products, and a whole lot more of features, is only $12.50/mth if paid yearly. A complete list of the features for the various tiers can be found <a href="https://www.ecwid.com/pricing" title="">here</a>.</p>,<p>Their backend is easy to use, and Customer Service is great through the chat window.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78972b40-6768-48d9-be91-0f6a9c4d28c2.png">,<p>To add the store to your site, you are going to want to have the embedded html window on the Homepage, so that we can take advantage of the 800px width.</p>,<p>The embed code, we don’t even have to make any changes, only the height of the embedded html window, which for our store below is set to 1350.</p>,<p>The code itself after you have created your store would look similar to :</p>,<pre><code>&lt;div id=&quot;my-store-11614093&quot;&gt;&lt;/div&gt;
