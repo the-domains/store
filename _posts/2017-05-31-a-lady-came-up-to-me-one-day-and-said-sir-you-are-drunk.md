@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: I always say shopping is cheaper than a psychiatrist. ~ Tammy Faye Bakker
-dateModified: '2017-08-30T15:02:09.680Z'
-datePublished: '2017-08-30T15:02:10.174Z'
+dateModified: '2017-08-30T15:16:12.100Z'
+datePublished: '2017-08-30T15:16:12.244Z'
 title: ''
 author: []
 publisher: {}
