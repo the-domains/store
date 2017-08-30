@@ -58,3 +58,7 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'all hand made with love.. ~ opening hours : 24/7'
 url: 'http://store.abc-xyz.us/'
+purpose:
+  - type: external
+    url: 'https://abc-xyz.us'
+    label: abc.. to xyz
