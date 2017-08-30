@@ -26,10 +26,6 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-navigation:
-  - name: speakeasy
-    url: 'https://thegrid.ai/bar'
-    type: external
 title: the old curiosity store
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
