@@ -58,3 +58,7 @@ purpose:
   - type: external
     url: 'https://abc-xyz.us'
     label: abc.. to xyz
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/079c80c9-4632-4078-8e89-21d109e2a2a9.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8e062f5-7236-4252-8761-03094a3f7ec6.png
