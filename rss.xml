@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[the old curiosity store]]></title>
-        <description><![CDATA[the old curiosity store]]></description>
+        <title><![CDATA[the old curiosity shop]]></title>
+        <description><![CDATA[the old curiosity shop]]></description>
         <link>http://store.abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Aug 2017 15:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2017 19:12:46 GMT</lastBuildDate>
         <atom:link href="http://store.abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Aug 2017 15:16:22 GMT</pubDate>
+        <pubDate>Thu, 31 Aug 2017 19:12:45 GMT</pubDate>
         <item>
             <title><![CDATA[E-commerce solutions..]]></title>
             <description><![CDATA[<h1>E-commerce solutions..</h1>,<p>There are many sites out there that will allow - for a fee - to set up a store front and sell your produce, but what if you want it to be part of your grid site ?</p>,<p>One of the best solutions we have come across is from <a href="https://www.ecwid.com/" title="">Ecwid</a>. A fully functioning e-commerce solution from end to end.. and best of all, you can try it for free!</p>,<p>Yup, if you only have 10 items to sell, they won’t charge you for setting up a store. The next level up to get 100 products, and a whole lot more of features, is only $12.50/mth if paid yearly. A complete list of the features for the various tiers can be found <a href="https://www.ecwid.com/pricing" title="">here</a>.</p>,<p>Their backend is easy to use, and Customer Service is great through the chat window.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78972b40-6768-48d9-be91-0f6a9c4d28c2.png">,<p>To add the store to your site, you are going to want to have the embedded html window on the Homepage, so that we can take advantage of the 800px width.</p>,<p>The embed code, we don’t even have to make any changes, only the height of the embedded html window, which for our store below is set to 1350.</p>,<p>The code itself after you have created your store would look similar to :</p>,<pre><code>&lt;div id=&quot;my-store-11614093&quot;&gt;&lt;/div&gt;
 &lt;div&gt;
 &lt;script type=&quot;text/javascript&quot; src=&quot;https://app.ecwid.com/script.js?11614093&amp;data_platform=code&amp;data_date=2017-05-31&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;script type=&quot;text/javascript&quot;&gt; xProductBrowser(&quot;categoriesPerRow=3&quot;,&quot;views=grid(20,3) list(60) table(60)&quot;,&quot;categoryView=grid&quot;,&quot;searchView=list&quot;,&quot;id=my-store-11614093&quot;);&lt;/script&gt;
-&lt;/div&gt;</code></pre>,<p>Very easy to setup, and now your gris site has a store. In the example below, you can buy anything and even checkout.. the only part disabled is the actual payment methods.. thanks.</p>]]></description>
+&lt;/div&gt;</code></pre>,<p>Very easy to setup, and now your grid site has a store. In the example below, you can buy anything and even checkout.. the only part disabled is the actual payment methods.. thanks.</p>]]></description>
             <link>http://store.abc-xyz.us/e-commerce-solutions/index.html</link>
             <guid isPermaLink="false">26b245e4-e471-4d54-81c2-9d29d4625378</guid>
             <pubDate>Wed, 30 Aug 2017 14:46:23 GMT</pubDate>
