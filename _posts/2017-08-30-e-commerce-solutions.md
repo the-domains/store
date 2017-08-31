@@ -4,8 +4,8 @@ description: >-
   There are many sites out there that will allow - for a fee - to set up a store
   front and sell your produce, but what if you want it to be part of your grid
   site ?
-dateModified: '2017-08-30T15:16:21.391Z'
-datePublished: '2017-08-30T15:16:21.746Z'
+dateModified: '2017-08-31T19:12:43.836Z'
+datePublished: '2017-08-31T19:12:44.183Z'
 title: E-commerce solutions..
 author: []
 publisher: {}
@@ -40,7 +40,7 @@ The code itself after you have created your store would look similar to :
     <script type="text/javascript" src="https://app.ecwid.com/script.js?11614093&data_platform=code&data_date=2017-05-31" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-11614093");</script>
     </div>
 
-Very easy to setup, and now your gris site has a store. In the example below, you can buy anything and even checkout.. the only part disabled is the actual payment methods.. thanks.
+Very easy to setup, and now your grid site has a store. In the example below, you can buy anything and even checkout.. the only part disabled is the actual payment methods.. thanks.
 
 [0]: https://www.ecwid.com/
 [1]: https://www.ecwid.com/pricing
