@@ -4,8 +4,8 @@ description: >-
   There are many sites out there that will allow - for a fee - to set up a store
   front and sell your produce, but what if you want it to be part of your grid
   site ?
-dateModified: '2017-08-31T19:12:43.836Z'
-datePublished: '2017-08-31T19:12:44.183Z'
+dateModified: '2017-08-31T19:12:49.791Z'
+datePublished: '2017-08-31T19:12:49.913Z'
 title: E-commerce solutions..
 author: []
 publisher: {}
