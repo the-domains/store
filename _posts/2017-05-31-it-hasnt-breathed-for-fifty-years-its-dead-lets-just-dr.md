@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Shopping is better than sex.  If you're not satisfied after shopping you can
   make an exchange for something you really like.  ~ Adrienne Gusoff
-dateModified: '2017-08-31T19:12:49.791Z'
-datePublished: '2017-08-31T19:12:49.914Z'
+dateModified: '2017-09-01T10:26:41.803Z'
+datePublished: '2017-09-01T10:26:42.065Z'
 title: The Store demo
 author: []
 publisher: {}
