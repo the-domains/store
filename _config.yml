@@ -17,7 +17,7 @@ analytics:
 author:
   name: '@copyright'
   email: adrian@bbiab.com
-  url: 'https://thegrid.ai/store/copyright'
+  url: 'https://store.abc.x-z.us/copyright'
 name: store
 colors:
   brandColors:
@@ -53,7 +53,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'all hand made with love.. ~ opening hours : 24/7'
-url: 'http://store.abc-xyz.us/'
+url: 'https://store.abc-xyz.us/'
 purpose:
   - type: external
     url: 'https://abc-xyz.us'
