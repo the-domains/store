@@ -56,8 +56,8 @@ description: 'all hand made with love.. ~ opening hours : 24/7'
 url: 'http://thegrid.ai/abcstore'
 purpose:
   - type: external
-    url: 'https://abc-xyz.us'
-    label: abc.. to xyz
+    url: 'http://thegrid.ai/abcxyz'
+    label: abc.. xyz
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/079c80c9-4632-4078-8e89-21d109e2a2a9.png
 logo: >-
